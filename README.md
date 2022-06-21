@@ -1,1 +1,1 @@
-# Antimicrobial-Peptides-Generation-and-Prediction
+# Antimicrobial-Peptides-Generation
